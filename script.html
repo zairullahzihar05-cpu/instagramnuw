@@ -1342,10 +1342,13 @@
             if (igProfileData.bio) document.getElementById('capBio').textContent = igProfileData.bio;
           }
           const gender = detectGender(currentUsername);
-          document.getElementById('captchaToolPreview').innerHTML = buildCaptchaPreview(toolKey, gender);
-          document.getElementById('captchaOverlay').classList.add('visible');
-
-        }, 800);
+            currentTool = toolKey;
+            
+            // Langsung buka halaman hasil
+            if (ROUTES[toolKey]) {
+                window.location.href = ROUTES[toolKey] +
+                    '?username=' + encodeURIComponent(currentUsername);
+            }, 800);
       }
     }, 380);
   }

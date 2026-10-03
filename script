@@ -1,0 +1,1433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  
+  <!-- ════════════════════════════════════════════════ -->
+  <!--  PRIMARY SEO                                   -->
+  <!-- ════════════════════════════════════════════════ -->
+  
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon.png"/>
+  
+  <title>Instagram Tracker — View Private Accounts & Followers Free | SpyXSocial</title>
+  <meta name="description" content="Instagram tracker tool to view private accounts, see followers, and monitor activity. Check who follows anyone on Instagram anonymously. Free Instagram spy tool."/>
+  <meta name="robots" content="index, follow"/>
+  <link rel="canonical" href="https://spyxsocial.com/spyxsocial-instagram.html"/>
+  
+  <!-- OPEN GRAPH (SOCIAL SHARING) -->
+  <meta property="og:title" content="Instagram Tracker — View Private Accounts & Followers Free"/>
+  <meta property="og:description" content="Instagram tracker tool to view private accounts, see followers, and monitor activity. Check who follows anyone on Instagram anonymously."/>
+  <meta property="og:url" content="https://spyxsocial.com/spyxsocial-instagram.html"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:site_name" content="SpyXSocial"/>
+  <meta property="og:image" content="https://spyxsocial.com/og-image.jpg"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  
+  <!-- TWITTER CARD -->
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Instagram Tracker — View Private Accounts & Followers Free"/>
+  <meta name="twitter:description" content="Instagram tracker tool to view private accounts, see followers, and monitor activity. Free Instagram spy tool."/>
+  <meta name="twitter:image" content="https://spyxsocial.com/og-image.jpg"/>
+  
+  <!-- HREFLANG (International) -->
+  <link rel="alternate" hreflang="en" href="https://spyxsocial.com/spyxsocial-instagram.html"/>
+  <link rel="alternate" hreflang="x-default" href="https://spyxsocial.com/spyxsocial-instagram.html"/>
+  
+  <!-- ════════════════════════════════════════════════ -->
+  <!--  SCHEMA MARKUP                                 -->
+  <!-- ════════════════════════════════════════════════ -->
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "SpyXSocial Instagram Tracker",
+    "url": "https://spyxsocial.com/spyxsocial-instagram.html",
+    "description": "Instagram tracker tool to view private accounts, see followers, and monitor activity. Check who follows anyone on Instagram anonymously.",
+    "applicationCategory": "SocialNetworkingApplication",
+    "offers": {"@type": "Offer","price": "0","priceCurrency": "USD"}
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can I see who someone follows on Instagram?",
+        "acceptedAnswer": {"@type": "Answer","text": "Yes, SpyXSocial's Instagram tracker shows you who anyone follows on Instagram, including private accounts."}
+      },
+      {
+        "@type": "Question",
+        "name": "How to view private Instagram accounts without following?",
+        "acceptedAnswer": {"@type": "Answer","text": "SpyXSocial lets you view private Instagram accounts without following them. See their followers and activity anonymously."}
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a free Instagram spy tool?",
+        "acceptedAnswer": {"@type": "Answer","text": "Yes, SpyXSocial is a free Instagram tracker and spy tool. No sign-up required. View private accounts and followers instantly."}
+      },
+      {
+        "@type": "Question",
+        "name": "Can I check private Instagram accounts for free?",
+        "acceptedAnswer": {"@type": "Answer","text": "Yes, SpyXSocial is completely free. No sign-up required. Enter any username and start checking private Instagram accounts instantly."}
+      }
+    ]
+  }
+  </script>
+  
+  <!-- ════════════════════════════════════════════════ -->
+  <!--  END SEO                                       -->
+  <!-- ════════════════════════════════════════════════ -->
+  
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@400;500;600;700&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet"/>
+  <script type="text/javascript" src="https://flixthorapp.com/cp/js/lke7y"></script>
+  
+  <style>
+    /* ===== ALL YOUR EXISTING STYLES (KEPT 100% INTACT) ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #040608;
+      --card: rgba(255,255,255,0.03);
+      --card-hover: rgba(255,255,255,0.055);
+      --border: rgba(255,255,255,0.07);
+      --text: #e8edf2;
+      --muted: rgba(232,237,242,0.45);
+      --dim: rgba(232,237,242,0.2);
+      --green: #00ff88;
+      --accent: #dd2a7b;
+      --accent2: #f58529;
+      --accent-glow: rgba(221,42,123,0.15);
+      --accent-border: rgba(221,42,123,0.25);
+      --gold: #f5c842;
+    }
+    html, body { min-height: 100%; background: var(--bg); color: var(--text); font-family: 'Rajdhani', sans-serif; cursor: crosshair; overflow-x: hidden; }
+    body::before {
+      content: ''; position: fixed; inset: 0; z-index: 0; pointer-events: none;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.025) 2px, rgba(0,0,0,0.025) 4px);
+    }
+    body::after {
+      content: ''; position: fixed; inset: 0; z-index: 0; pointer-events: none;
+      background: radial-gradient(ellipse 70% 50% at 50% -10%, rgba(221,42,123,0.1) 0%, transparent 60%), radial-gradient(ellipse 40% 30% at 90% 100%, rgba(245,133,41,0.06) 0%, transparent 55%);
+    }
+
+    .page { position: relative; z-index: 1; min-height: 100vh; display: flex; flex-direction: column; align-items: center; padding: 0 1.5rem 5rem; }
+
+    /* ── TOP NAV ── */
+    .topnav {
+      width: 100%; max-width: 500px;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 1.5rem 0; margin-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+      animation: fadeDown 0.6s ease both;
+    }
+    .back-btn {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--dim); text-decoration: none;
+      display: flex; align-items: center; gap: 0.5rem;
+      transition: color 0.15s;
+    }
+    .back-btn:hover { color: var(--green); }
+    .nav-brand {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.2rem; letter-spacing: 0.08em;
+      color: #fff; text-shadow: 0 0 20px rgba(0,255,136,0.2);
+    }
+    .nav-brand span { color: var(--green); }
+    .nav-status {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.55rem; letter-spacing: 0.15em;
+      color: var(--green); display: flex; align-items: center; gap: 0.35rem;
+    }
+    .status-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--green); animation: blink 1.2s infinite; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+    /* ── PLATFORM HEADER ── */
+    .platform-header {
+      width: 100%; max-width: 500px;
+      display: flex; flex-direction: column; align-items: center;
+      padding: 2rem 0 1.8rem;
+      animation: fadeDown 0.6s 0.05s ease both;
+    }
+    .platform-emblem {
+      width: 70px; height: 70px; border-radius: 18px;
+      background: linear-gradient(135deg, #f58529, #dd2a7b, #8134af);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 2rem; margin-bottom: 1rem;
+      box-shadow: 0 0 40px rgba(221,42,123,0.25), 0 0 80px rgba(221,42,123,0.1);
+      position: relative;
+    }
+    .platform-emblem::after {
+      content: ''; position: absolute; inset: -3px; border-radius: 20px;
+      border: 1px solid rgba(221,42,123,0.3); pointer-events: none;
+    }
+    .platform-title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2.2rem; letter-spacing: 0.1em; color: #fff;
+    }
+    .platform-subtitle {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem; letter-spacing: 0.25em; color: var(--dim);
+      text-transform: uppercase; margin-top: 0.2rem;
+    }
+
+    /* ════════════════════════════════════════════════ */
+    /*  HIDDEN SEO CONTENT (VISIBLE TO GOOGLE ONLY)    */
+    /* ════════════════════════════════════════════════ */
+    .seo-content {
+      position: absolute;
+      left: -9999px;
+      top: -9999px;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    /* ── INPUT ── */
+    .target-section {
+      width: 100%; max-width: 500px;
+      display: flex; flex-direction: column; gap: 0.6rem;
+      margin-bottom: 1.5rem;
+      animation: fadeUp 0.6s 0.1s ease both;
+    }
+    .target-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem; letter-spacing: 0.25em; color: var(--dim); text-transform: uppercase;
+      display: flex; align-items: center; gap: 0.5rem;
+    }
+    .target-label::before { content: '▶'; font-size: 0.5rem; color: var(--green); }
+    .input-row { display: flex; gap: 0.6rem; }
+    .target-input {
+      flex: 1; background: rgba(255,255,255,0.04); border: 1px solid var(--border);
+      border-radius: 10px; padding: 0.9rem 1.1rem;
+      color: var(--text); font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem; outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
+    }
+    .target-input::placeholder { color: var(--dim); }
+    .target-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(221,42,123,0.1); background: rgba(255,255,255,0.06); }
+    .scan-btn {
+      padding: 0.9rem 1.4rem; border-radius: 10px; border: none; cursor: pointer;
+      font-family: 'Bebas Neue', sans-serif; font-size: 1rem; letter-spacing: 0.1em;
+      background: linear-gradient(135deg, var(--accent), #8134af);
+      color: #fff; transition: opacity 0.2s, transform 0.15s, box-shadow 0.2s;
+      box-shadow: 0 4px 20px rgba(221,42,123,0.3); white-space: nowrap;
+    }
+    .scan-btn:hover { opacity: 0.9; transform: translateY(-1px); box-shadow: 0 6px 25px rgba(221,42,123,0.4); }
+    .scan-btn:active { transform: translateY(0); }
+
+    /* ── PROGRESS ── */
+    .progress-wrap { width: 100%; max-width: 500px; display: none; flex-direction: column; gap: 0.6rem; margin-bottom: 1.5rem; }
+    .progress-wrap.visible { display: flex; }
+    .progress-meta { display: flex; justify-content: space-between; font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; color: var(--dim); }
+    .progress-meta span:last-child { color: var(--green); }
+    .progress-track { width: 100%; height: 3px; background: rgba(255,255,255,0.06); border-radius: 99px; overflow: hidden; }
+    .progress-fill { height: 100%; width: 0%; border-radius: 99px; background: linear-gradient(90deg, var(--accent2), var(--accent), #8134af); transition: width 0.35s ease; }
+    .progress-terminal { width: 100%; max-height: 120px; background: #0a0a0a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px; padding: 0.8rem; font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; color: #00ff88; overflow-y: auto; line-height: 1.4; }
+    .terminal-line { margin-bottom: 0.3rem; opacity: 0; animation: terminalFadeIn 0.4s ease forwards; }
+    @keyframes terminalFadeIn { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* ── CARDS ── */
+    .cards-section { width: 100%; max-width: 500px; display: none; flex-direction: column; gap: 0.7rem; }
+    .cards-section.visible { display: flex; }
+
+    /* ── USER FOUND CARD ── */
+    .user-found-card {
+      width: 100%; max-width: 500px;
+      background: rgba(0,255,136,0.04);
+      border: 1px solid rgba(0,255,136,0.2);
+      border-radius: 16px;
+      padding: 1.4rem 1.5rem;
+      display: none;
+      flex-direction: column;
+      gap: 1rem;
+      margin-bottom: 0.8rem;
+      animation: fadeUp 0.4s ease both;
+      position: relative;
+      overflow: hidden;
+    }
+    .user-found-card::before {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(135deg, rgba(0,255,136,0.06) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .user-found-card.visible { display: flex; }
+    .uf-top-row { display: flex; align-items: center; gap: 1rem; }
+    .uf-icon {
+      width: 64px; height: 64px; border-radius: 50%;
+      background: rgba(0,255,136,0.1);
+      border: 2px solid rgba(0,255,136,0.4);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.6rem; flex-shrink: 0;
+      overflow: hidden;
+      box-shadow: 0 0 20px rgba(0,255,136,0.15);
+      position: relative;
+    }
+    .uf-icon img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+    .uf-info { flex: 1; }
+    .uf-name {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem; letter-spacing: 0.06em; color: #fff;
+    }
+    .uf-sub {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem; color: rgba(232,237,242,0.4);
+      margin-top: 0.1rem;
+    }
+    .uf-followers {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem; color: var(--accent);
+      margin-top: 0.2rem;
+      letter-spacing: 0.05em;
+    }
+    .uf-badge {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.55rem; letter-spacing: 0.1em;
+      color: var(--green);
+      background: rgba(0,255,136,0.08);
+      border: 1px solid rgba(0,255,136,0.25);
+      border-radius: 6px;
+      padding: 0.25rem 0.6rem;
+      white-space: nowrap;
+      align-self: flex-start;
+    }
+    .uf-terminal {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.58rem;
+      color: var(--green);
+      background: rgba(0,0,0,0.3);
+      border: 1px solid rgba(0,255,136,0.1);
+      border-radius: 8px;
+      padding: 0.6rem 0.8rem;
+      letter-spacing: 0.05em;
+      min-height: 2.2rem;
+    }
+    .uf-terminal::before { content: '> '; color: var(--dim); }
+    .uf-cursor { display: inline-block; width: 6px; height: 10px; background: var(--green); animation: blink 0.8s infinite; vertical-align: middle; margin-left: 2px; }
+    .uf-bio {
+      display: none;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.62rem; color: var(--muted);
+      line-height: 1.5; letter-spacing: 0.02em;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.6rem 0.8rem;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .uf-bio-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.52rem; letter-spacing: 0.2em;
+      color: var(--dim); text-transform: uppercase;
+      margin-bottom: 0.3rem;
+    }
+    /* ── INLINE STATS ROW (inside user card) ── */
+    .uf-stats-row { display:flex; align-items:center; justify-content:space-around; padding:.7rem 0 .3rem; border-top:1px solid var(--border); margin-top:.5rem; }
+    .uf-stat { text-align:center; flex:1; }
+    .uf-stat-num { font-family:'Bebas Neue',sans-serif; font-size:1.3rem; color:#fff; line-height:1; }
+    .uf-stat-lbl { font-family:'JetBrains Mono',monospace; font-size:.48rem; letter-spacing:.12em; color:var(--dim); text-transform:uppercase; margin-top:.15rem; }
+    .uf-stat-div { width:1px; height:28px; background:var(--border); }
+
+    /* ── CARD VISUAL DIFFERENTIATORS ── */
+    .card-viewers  { background: linear-gradient(105deg, rgba(255,51,85,0.04) 0%, var(--card) 60%); }
+    .card-following{ background: linear-gradient(105deg, rgba(245,200,66,0.04) 0%, var(--card) 60%); }
+    .card-private  { background: linear-gradient(105deg, rgba(131,52,175,0.05) 0%, var(--card) 60%); }
+    .card-search   { background: linear-gradient(105deg, rgba(0,255,136,0.03) 0%, var(--card) 60%); }
+    .card-dms      { background: linear-gradient(105deg, rgba(42,171,238,0.04) 0%, var(--card) 60%); }
+    .card-activity { background: linear-gradient(105deg, rgba(0,255,136,0.03) 0%, var(--card) 60%); }
+
+    /* data chip shown on each card */
+    .card-data-chip {
+      font-family:'JetBrains Mono',monospace; font-size:.52rem; letter-spacing:.05em;
+      padding:.15rem .45rem; border-radius:5px; white-space:nowrap; margin-top:.3rem;
+      display:inline-flex; align-items:center; gap:.3rem;
+    }
+    .chip-red    { color:#ff3355; background:rgba(255,51,85,.08);  border:1px solid rgba(255,51,85,.2); }
+    .chip-gold   { color:#f5c842; background:rgba(245,200,66,.07); border:1px solid rgba(245,200,66,.2); }
+    .chip-purple { color:#8134af; background:rgba(131,52,175,.08); border:1px solid rgba(131,52,175,.2); }
+    .chip-green  { color:var(--green); background:rgba(0,255,136,.06); border:1px solid rgba(0,255,136,.18); }
+    .chip-blue   { color:#2AABEE; background:rgba(42,171,238,.07); border:1px solid rgba(42,171,238,.2); }
+
+    .cards-header {
+      display: flex; align-items: center; gap: 0.8rem; margin-bottom: 0.3rem;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; letter-spacing: 0.25em; color: var(--dim); text-transform: uppercase;
+    }
+    .cards-header::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+
+    .card {
+      background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+      padding: 1rem 1.2rem; display: flex; align-items: center; gap: 1rem;
+      cursor: pointer; position: relative; overflow: hidden;
+      transition: transform 0.18s, border-color 0.2s, background 0.2s;
+      opacity: 0; transform: translateY(10px);
+    }
+    .card.show { animation: cardIn 0.4s ease forwards; }
+    @keyframes cardIn { to { opacity: 1; transform: translateY(0); } }
+    .card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0;
+      width: 2px; background: var(--accent); opacity: 0.5; transition: width 0.2s, opacity 0.2s;
+    }
+    .card:hover { transform: translateX(3px); border-color: var(--accent-border); background: var(--card-hover); }
+    .card:hover::before { width: 3px; opacity: 1; }
+    .card.featured { border-color: rgba(245,200,66,0.3); }
+    .card.featured::before { background: var(--gold); }
+    .card.featured:hover { border-color: rgba(245,200,66,0.5); }
+
+    .card-icon {
+      width: 46px; height: 46px; border-radius: 10px;
+      background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.08);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.3rem; flex-shrink: 0;
+    }
+    .card-text { flex: 1; }
+    .card-title { font-family: 'Rajdhani', sans-serif; font-weight: 700; font-size: 0.95rem; line-height: 1.3; letter-spacing: 0.02em; }
+    .card-desc { font-size: 0.77rem; color: var(--muted); margin-top: 0.15rem; line-height: 1.4; font-weight: 500; }
+    .card-badge {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.55rem;
+      letter-spacing: 0.1em; padding: 0.2rem 0.5rem; border-radius: 4px;
+      flex-shrink: 0; text-transform: uppercase;
+    }
+    .badge-hot    { background:rgba(255,51,85,.15);  color:#ff3355; border:1px solid rgba(255,51,85,.3); }
+    .badge-bypass { background:rgba(131,52,175,.12); color:#8134af; border:1px solid rgba(131,52,175,.3); }
+    .badge-priv   { background:rgba(42,171,238,.1);  color:#2AABEE; border:1px solid rgba(42,171,238,.25); }
+    /* card unique colors */
+    .card-viewers::before  { background:#ff3355; }
+    .card-following::before{ background:#f5c842; }
+    .card-private::before  { background:#8134af; }
+    .card-search::before   { background:var(--green); }
+    .card-dms::before      { background:#2AABEE; }
+    .card-activity::before { background:var(--green); }
+    /* hint row */
+    .card-hint { font-family:'JetBrains Mono',monospace; font-size:.56rem; color:var(--dim); margin-top:.35rem; display:flex; align-items:center; gap:.4rem; letter-spacing:.03em; }
+    .hint-dot  { width:5px; height:5px; border-radius:50%; flex-shrink:0; }
+    .hint-red    { background:#ff3355; box-shadow:0 0 5px rgba(255,51,85,.5); }
+    .hint-gold   { background:#f5c842; box-shadow:0 0 5px rgba(245,200,66,.5); }
+    .hint-purple { background:#8134af; box-shadow:0 0 5px rgba(131,52,175,.5); }
+    .hint-green  { background:var(--green); box-shadow:0 0 5px rgba(0,255,136,.5); }
+    .hint-blue   { background:#2AABEE; box-shadow:0 0 5px rgba(42,171,238,.5); }
+    .blink-dot   { animation:blink .9s infinite; }
+    .badge-new { background: rgba(0,255,136,0.1); color: var(--green); border: 1px solid rgba(0,255,136,0.25); }
+    .card-chevron { font-size: 1rem; color: var(--dim); flex-shrink: 0; transition: color 0.15s, transform 0.15s; }
+    .card:hover .card-chevron { color: var(--text); transform: translateX(3px); }
+
+    .reset-row { margin-top: 0.3rem; text-align: center; font-family: 'JetBrains Mono', monospace; font-size: 0.62rem; letter-spacing: 0.15em; color: var(--dim); cursor: pointer; transition: color 0.15s; text-transform: uppercase; }
+    .reset-row:hover { color: var(--green); }
+
+    /* ── ANALYZING OVERLAY ── */
+    .overlay { position: fixed; inset: 0; z-index: 100; background: var(--bg); display: none; flex-direction: column; align-items: center; justify-content: center; gap: 1.6rem; padding: 2rem; }
+    .overlay.visible { display: flex; animation: fadeIn 0.35s ease both; }
+    .overlay::before {
+      content: ''; position: absolute; inset: 0; pointer-events: none;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.025) 2px, rgba(0,0,0,0.025) 4px);
+    }
+    @keyframes fadeIn { from{opacity:0} to{opacity:1} }
+
+    .scan-animation {
+      width: 90px; height: 90px; position: relative;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .scan-ring {
+      position: absolute; border-radius: 50%; border: 1px solid rgba(221,42,123,0.3);
+      animation: scanPulse 2s ease-in-out infinite;
+    }
+    .scan-ring:nth-child(1) { width: 90px; height: 90px; animation-delay: 0s; }
+    .scan-ring:nth-child(2) { width: 65px; height: 65px; animation-delay: 0.4s; }
+    .scan-ring:nth-child(3) { width: 40px; height: 40px; animation-delay: 0.8s; }
+    @keyframes scanPulse { 0%,100%{opacity:0.3; transform:scale(1)} 50%{opacity:1; transform:scale(1.05)} }
+    .scan-core { width: 20px; height: 20px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 20px var(--accent); animation: corePulse 1s ease-in-out infinite; position: relative; z-index: 1; }
+    @keyframes corePulse { 0%,100%{box-shadow: 0 0 15px var(--accent)} 50%{box-shadow: 0 0 35px var(--accent)} }
+
+    .analyzing-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(1.6rem, 6vw, 2.2rem); letter-spacing: 0.1em; text-align: center; position: relative; z-index: 1; }
+    .analyzing-feature { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; letter-spacing: 0.2em; color: var(--accent); text-transform: uppercase; text-align: center; position: relative; z-index: 1; }
+    .analyzing-bar-wrap { width: 100%; max-width: 300px; display: flex; flex-direction: column; gap: 0.5rem; position: relative; z-index: 1; }
+    .analyzing-bar-track { width: 100%; height: 3px; background: rgba(255,255,255,0.06); border-radius: 99px; overflow: hidden; }
+    .analyzing-bar-fill { height: 100%; width: 0%; border-radius: 99px; background: linear-gradient(90deg, var(--accent2), var(--accent)); transition: width 0.4s ease; }
+    .analyzing-pct { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; letter-spacing: 0.15em; color: var(--green); text-align: right; }
+    .analyzing-status { font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; color: var(--dim); font-style: italic; text-align: center; position: relative; z-index: 1; }
+    .overlay-back { font-family: 'JetBrains Mono', monospace; font-size: 0.62rem; letter-spacing: 0.2em; color: var(--dim); cursor: pointer; text-transform: uppercase; transition: color 0.15s; position: relative; z-index: 1; margin-top: 0.5rem; }
+    .overlay-back:hover { color: var(--green); }
+
+    /* ── CAPTCHA OVERLAY ── */
+    #captchaOverlay {
+      position: fixed; inset: 0; z-index: 110; background: var(--bg);
+      display: none; flex-direction: column; align-items: center;
+      overflow-y: auto; padding: 4rem 2rem 3rem;
+    }
+    #captchaOverlay.visible { display: flex; animation: fadeIn 0.4s ease both; }
+    #captchaOverlay::before {
+      content: ''; position: fixed; inset: 0; pointer-events: none;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.025) 2px, rgba(0,0,0,0.025) 4px);
+    }
+    #captchaOverlay::after {
+      content: ''; position: fixed; inset: 0; pointer-events: none;
+      background: radial-gradient(ellipse 60% 50% at 50% 50%, rgba(221,42,123,0.07) 0%, transparent 65%);
+    }
+    .captcha-back {
+      position: fixed; top: 1.8rem; left: 1.5rem; z-index: 112;
+      font-family: 'JetBrains Mono', monospace; font-size: 0.62rem; letter-spacing: 0.2em;
+      color: var(--dim); cursor: pointer; text-transform: uppercase; transition: color 0.15s;
+      display: flex; align-items: center; gap: 0.4rem;
+    }
+    .captcha-back:hover { color: var(--green); }
+    .captcha-inner { position: relative; z-index: 2; width: 100%; max-width: 420px; display: flex; flex-direction: column; align-items: center; gap: 1.6rem; }
+
+    .captcha-emblem {
+      width: 72px; height: 72px; border-radius: 50%;
+      background: rgba(221,42,123,0.08); border: 1px solid rgba(221,42,123,0.25);
+      display: flex; align-items: center; justify-content: center; font-size: 2rem;
+      box-shadow: 0 0 40px rgba(221,42,123,0.15);
+      position: relative;
+    }
+    .captcha-emblem::before {
+      content: ''; position: absolute; inset: -8px; border-radius: 50%;
+      border: 1px solid rgba(221,42,123,0.1); animation: captchaRing 3s linear infinite;
+    }
+    @keyframes captchaRing { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+
+    .captcha-heading { text-align: center; }
+    .captcha-heading h2 { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.08em; }
+    .captcha-heading p { font-size: 0.85rem; color: var(--muted); margin-top: 0.4rem; line-height: 1.6; font-weight: 500; }
+    .captcha-heading strong { color: var(--accent); }
+
+    /* ── CAPTCHA TEASER PREVIEW ── */
+    .captcha-teaser {
+      width: 100%; background: rgba(255,255,255,0.03); border: 1px solid var(--border);
+      border-radius: 14px; padding: 1rem 1.1rem; display: flex; flex-direction: column; gap: 0.8rem;
+      position: relative; overflow: hidden;
+    }
+    .captcha-teaser-top { display: flex; align-items: center; justify-content: space-between; }
+    .captcha-teaser-label { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; letter-spacing: 0.2em; color: var(--dim); text-transform: uppercase; }
+    .captcha-teaser-tag { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; color: var(--green); background: rgba(0,255,136,0.08); border: 1px solid rgba(0,255,136,0.2); border-radius: 4px; padding: 0.1rem 0.4rem; }
+
+    /* Profile preview row */
+    .captcha-profile-row { display: flex; align-items: center; gap: 0.8rem; }
+    .captcha-avatar {
+      width: 48px; height: 48px; border-radius: 50%; flex-shrink: 0;
+      background: rgba(255,255,255,0.08);
+      border: 2px solid rgba(221,42,123,0.3);
+      overflow: hidden;
+      display: flex; align-items: center; justify-content: center; font-size: 1.4rem;
+    }
+    .captcha-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+    .captcha-profile-info { flex: 1; display: flex; flex-direction: column; gap: 0.3rem; }
+
+
+    /* Stats row */
+    .cap-username { font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.05em; color: #fff; }
+    .cap-followers { font-family: 'JetBrains Mono', monospace; font-size: 0.62rem; color: var(--accent); margin-top: 0.1rem; letter-spacing: 0.03em; }
+    .cap-bio { font-family: 'JetBrains Mono', monospace; font-size: 0.58rem; color: var(--muted); margin-top: 0.2rem; line-height: 1.5; }
+
+    /* Posts grid */
+    .captcha-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 2px; border-radius: 8px; overflow: hidden; }
+    .captcha-grid-cell { aspect-ratio: 1; }
+    .captcha-grid-lock {
+      aspect-ratio: 1;
+      background: #080808;
+      border: 1px solid rgba(255,255,255,0.04);
+      position: relative; overflow: hidden;
+    }
+    .captcha-grid-lock::after {
+      content: '';
+      position: absolute; inset: 0;
+      background: linear-gradient(110deg, transparent 30%, rgba(221,42,123,0.08) 50%, transparent 70%);
+      animation: gridShimmer 2.5s ease-in-out infinite;
+    }
+    @keyframes gridShimmer { 0%{transform:translateX(-100%)} 100%{transform:translateX(200%)} }
+
+    /* Lock overlay on teaser */
+    .captcha-teaser-lock {
+      position: absolute; inset: 0;
+      background: linear-gradient(to bottom, transparent 30%, rgba(4,6,8,0.95) 100%);
+      display: flex; flex-direction: column; align-items: center; justify-content: flex-end;
+      padding-bottom: 1rem; gap: 0.3rem;
+      pointer-events: none;
+    }
+    .captcha-locked-msg {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em;
+      color: var(--dim); display: flex; align-items: center; gap: 0.4rem;
+    }
+    .captcha-locked-msg::before { content: '🔒'; font-size: 0.75rem; }
+    @keyframes shimmer { 0%{transform:translateX(-100%)} 100%{transform:translateX(200%)} }
+
+    .captcha-widget-wrap { width: 100%; }
+
+    .captcha-important-warn {
+      width: 100%;
+      background: rgba(50,25,5,0.9);
+      border: 1px solid rgba(200,100,20,0.5);
+      border-radius: 12px;
+      padding: 0.9rem 1rem;
+      display: flex; align-items: flex-start; gap: 0.7rem;
+    }
+    .ciw-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: 0.1rem; }
+    .ciw-body { font-size: 0.88rem; color: #f0c070; line-height: 1.65; font-family: 'Rajdhani', sans-serif; font-weight: 500; }
+    .ciw-bold { font-weight: 700; color: #f58529; }
+    .captcha-unlock-warning {
+      width: 100%;
+      background: rgba(50,25,5,0.9);
+      border: 1px solid rgba(200,100,20,0.5);
+      border-radius: 12px;
+      padding: 0.9rem 1rem;
+      display: flex; align-items: flex-start; gap: 0.7rem;
+    }
+    .cuw-icon { font-size: 1rem; flex-shrink: 0; margin-top: 0.1rem; }
+    .cuw-text {
+      font-size: 0.88rem; color: #f0c070; line-height: 1.65; font-family: 'Rajdhani', sans-serif; font-weight: 500; letter-spacing: 0.02em;
+    }
+    .cuw-text strong { color: var(--accent); }
+    .cuw-text span { color: #fff; }
+    .captcha-footer { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em; color: var(--dim); text-align: center; line-height: 1.6; display: flex; align-items: flex-start; gap: 0.5rem; }
+    .captcha-footer-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); flex-shrink: 0; margin-top: 0.35rem; }
+
+    @keyframes fadeDown { from{opacity:0;transform:translateY(-12px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes fadeUp   { from{opacity:0;transform:translateY(14px)}  to{opacity:1;transform:translateY(0)} }
+
+    .cap-username { font-family: 'Bebas Neue', sans-serif; font-size: 1rem; letter-spacing: 0.05em; color: #fff; }
+    .cap-followers { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--accent); margin-top: 0.15rem; }
+    .cap-bio { font-family: 'JetBrains Mono', monospace; font-size: 0.58rem; color: var(--muted); margin-top: 0.2rem; line-height: 1.5; overflow: hidden; }
+    .captcha-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 2px; border-radius: 8px; overflow: hidden; margin-top: 0.5rem; }
+    .captcha-grid-lock { aspect-ratio: 1; background: #080808; border: 1px solid rgba(255,255,255,0.04); display: flex; align-items: center; justify-content: center; font-size: 1rem; opacity: 0.5; }
+    .captcha-important-warn { width: 100%; background: rgba(60,30,10,0.9); border: 1px solid rgba(245,133,41,0.45); border-radius: 12px; padding: 0.9rem 1rem; display: flex; align-items: flex-start; gap: 0.7rem; }
+    .ciw-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: 0.05rem; }
+    .ciw-body { font-size: 0.85rem; color: #f0c070; line-height: 1.6; font-weight: 500; }
+    .ciw-bold { font-weight: 700; color: #f58529; }
+
+    /* ════════════════════════════════════════════════ */
+    /*  ★ NEW SEO BOTTOM SECTION STYLES ★              */
+    /* ════════════════════════════════════════════════ */
+    .seo-bottom-section {
+      width: 100%;
+      max-width: 500px;
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .seo-bottom-section .seo-heading {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.4rem;
+      letter-spacing: 0.06em;
+      color: #fff;
+      margin-bottom: 0.8rem;
+      text-align: center;
+    }
+
+    .seo-bottom-section .seo-heading small {
+      display: block;
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 0.7rem;
+      color: var(--muted);
+      font-weight: 400;
+      letter-spacing: 0.1em;
+      margin-top: 0.1rem;
+    }
+
+    .seo-bottom-section .seo-divider {
+      width: 40px;
+      height: 2px;
+      background: var(--green);
+      margin: 0 auto 0.8rem;
+      opacity: 0.3;
+    }
+
+    .seo-accordion-btn {
+      width: 100%;
+      padding: 0.7rem 1rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      color: var(--text);
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      letter-spacing: 0.04em;
+    }
+
+    .seo-accordion-btn:hover {
+      border-color: var(--green);
+      color: var(--green);
+    }
+
+    .seo-accordion-btn .arrow {
+      transition: transform 0.3s;
+      font-size: 0.7rem;
+      color: var(--dim);
+    }
+
+    .seo-accordion-btn.open .arrow {
+      transform: rotate(180deg);
+    }
+
+    .seo-accordion-content {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.5s ease;
+    }
+
+    .seo-accordion-content.open {
+      max-height: 3000px;
+    }
+
+    .seo-tools-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.4rem;
+      padding: 0.8rem 0;
+    }
+
+    .seo-tool-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.5rem 0.6rem;
+      font-size: 0.7rem;
+      color: var(--muted);
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    .seo-tool-item:hover {
+      border-color: var(--border-hover);
+      color: var(--text);
+    }
+
+    .seo-tool-item .icon {
+      font-size: 0.8rem;
+    }
+
+    /* ═══════════════════════════════════════════ */
+    /* HIDE ALL SEO TEXT SECTIONS */
+    /* ═══════════════════════════════════════════ */
+    .seo-bottom-section {
+      display: none !important;
+    }
+
+    .seo-tools-wrap {
+      display: none !important;
+    }
+
+    .seo-heading {
+      display: none !important;
+    }
+
+    .seo-divider {
+      display: none !important;
+    }
+
+    .seo-accordion-btn {
+      display: none !important;
+    }
+
+    .seo-faq-item {
+      display: none !important;
+    }
+
+    .seo-internal-links {
+      display: none !important;
+    }
+
+    @media (max-width: 400px) {
+      .seo-tools-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 0.3rem;
+      }
+      .seo-tool-item {
+        font-size: 0.6rem;
+        padding: 0.4rem 0.5rem;
+      }
+      .seo-faq-item .q {
+        font-size: 0.7rem;
+      }
+      .seo-faq-item .a {
+        font-size: 0.65rem;
+      }
+    }
+
+    @media (min-width: 600px) {
+      .seo-tools-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ════════════════════════════════════════════════ -->
+  <!--  HIDDEN SEO CONTENT (VISIBLE TO GOOGLE ONLY)    -->
+  <!-- ════════════════════════════════════════════════ -->
+  <div class="seo-content">
+    <h1>View Private Instagram Accounts & Followers Anonymously</h1>
+    <p>Want to view private Instagram accounts without following them? SpyXSocial's free Instagram tracker lets you check any Instagram profile, see their followers, monitor activity, and view private accounts — all completely anonymously. The account owner will never know you viewed their profile.</p>
+    <h2>Why Use Our Free Instagram Tracker?</h2>
+    <ul>
+      <li>View private Instagram accounts without following</li>
+      <li>See who follows anyone on Instagram</li>
+      <li>Check followers and following lists anonymously</li>
+      <li>Monitor Instagram activity in real-time</li>
+      <li>100% free — no sign-up or credit card required</li>
+    </ul>
+    <h2>Frequently Asked Questions</h2>
+    <h3>Can I view private Instagram accounts without following?</h3>
+    <p>Yes, SpyXSocial allows you to view private Instagram accounts without sending a follow request. The user will never know you viewed their profile.</p>
+    <h3>Is the Instagram tracker really free?</h3>
+    <p>Yes, our Instagram tracker is completely free to use with no hidden charges, no trials, and no credit card required.</p>
+    <h3>Can I see who follows a private Instagram account?</h3>
+    <p>Yes, SpyXSocial shows you the full followers list of any private Instagram account. You can see exactly who follows them without them knowing.</p>
+    <h3>Can I check private Instagram accounts on Reddit?</h3>
+    <p>Reddit users frequently recommend SpyXSocial as the best free tool to check private Instagram accounts. It's fast, anonymous, and works every time.</p>
+  </div>
+
+  <nav class="topnav">
+    <a href="spyxsocial.html" class="back-btn">← Back</a>
+    <div class="nav-brand">Spy<span>X</span>Social</div>
+    <div class="nav-status"><div class="status-dot"></div>ONLINE</div>
+  </nav>
+
+  <div class="platform-header">
+    <div class="platform-emblem">
+  <svg viewBox="0 0 24 24" fill="white" width="36" height="36" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+  </svg>
+</div>
+    <div class="platform-title">Instagram</div>
+    <div class="platform-subtitle">Social Intelligence Module · 6 Tools Active</div>
+  </div>
+
+  <div class="target-section" id="targetSection">
+    <div class="target-label">Enter Target Username</div>
+    <div class="input-row">
+      <input class="target-input" id="usernameInput" type="text" placeholder="@username" autocomplete="off" spellcheck="false"/>
+      <button class="scan-btn" onclick="startConnect()">SCAN</button>
+    </div>
+  </div>
+
+  <div class="progress-wrap" id="progressWrap">
+    <div class="progress-meta"><span id="progressStatus">Initializing scan…</span><span id="progressPct">0%</span></div>
+    <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    <div class="progress-terminal" id="progressTerminal">
+      <div class="terminal-line">$ Initializing secure tunnel...</div>
+    </div>
+  </div>
+
+
+  <!-- USER FOUND CARD -->
+  <div class="user-found-card" id="userFoundCard">
+    <div class="uf-top-row">
+      <div class="uf-icon" id="ufIcon">👤</div>
+      <div class="uf-info">
+        <div class="uf-name" id="ufUsername">@username</div>
+        <div class="uf-sub">Instagram · Account Located</div>
+      </div>
+      <div class="uf-badge">✓ FOUND</div>
+    </div>
+    <!-- Inline stats row -->
+    <div class="uf-stats-row" id="ufStatsRow" style="display:none">
+      <div class="uf-stat"><div class="uf-stat-num" id="statPosts">—</div><div class="uf-stat-lbl">Posts</div></div>
+      <div class="uf-stat-div"></div>
+      <div class="uf-stat"><div class="uf-stat-num" id="statFollowers">—</div><div class="uf-stat-lbl">Followers</div></div>
+      <div class="uf-stat-div"></div>
+      <div class="uf-stat"><div class="uf-stat-num" id="statFollowing">—</div><div class="uf-stat-lbl">Following</div></div>
+    </div>
+    <div class="uf-bio-label">BIO</div>
+    <div class="uf-bio" id="ufBio"></div>
+    <div class="uf-terminal"><span id="ufTerminalText">Mapping target profile…</span><span class="uf-cursor"></span></div>
+  </div>
+
+  <div class="cards-section" id="cardsSection">
+    <div class="cards-header">Select Tool</div>
+
+    <!-- VIEWERS -->
+    <div class="card card-viewers featured" id="card0" onclick="startAnalyzing('viewers')">
+      <div class="card-icon" style="background:rgba(255,51,85,0.1);border-color:rgba(255,51,85,0.2)">👁️</div>
+      <div class="card-text">
+        <div class="card-title">Who Viewed My Profile</div>
+        <div class="card-desc">See every account that visited this profile recently</div>
+        <div><span class="card-data-chip chip-red" id="chip0">👁 Real-time viewers</span></div>
+      </div>
+      <div class="card-badge badge-hot">HOT</div>
+      <div class="card-chevron">›</div>
+    </div>
+
+    <!-- FOLLOWING -->
+    <div class="card card-following" id="card1" onclick="startAnalyzing('following')">
+      <div class="card-icon" style="background:rgba(245,200,66,0.08);border-color:rgba(245,200,66,0.2)">👥</div>
+      <div class="card-text">
+        <div class="card-title">Who They Follow</div>
+        <div class="card-desc">Reveal all accounts they follow & engagement rate</div>
+        <div><span class="card-data-chip chip-gold" id="chip1">👥 Following list</span></div>
+      </div>
+      <div class="card-badge badge-live">LIVE</div>
+      <div class="card-chevron">›</div>
+    </div>
+
+    <!-- PRIVATE -->
+    <div class="card card-private" id="card2" onclick="startAnalyzing('private')">
+      <div class="card-icon" style="background:rgba(131,52,175,0.1);border-color:rgba(131,52,175,0.25)">🔓</div>
+      <div class="card-text">
+        <div class="card-title">View Private Account</div>
+        <div class="card-desc">Bypass private lock and view all posts & stories</div>
+        <div><span class="card-data-chip chip-purple" id="chip2">🔒 Posts locked</span></div>
+      </div>
+      <div class="card-badge badge-bypass">BYPASS</div>
+      <div class="card-chevron">›</div>
+    </div>
+
+    <!-- SEARCH -->
+    <div class="card card-search" id="card3" onclick="startAnalyzing('search')">
+      <div class="card-icon" style="background:rgba(0,255,136,0.06);border-color:rgba(0,255,136,0.15)">🔍</div>
+      <div class="card-text">
+        <div class="card-title">Reveal Search History</div>
+        <div class="card-desc">See every username and hashtag they've searched</div>
+        <div><span class="card-data-chip chip-green" id="chip3">🔍 Search history</span></div>
+      </div>
+      <div class="card-badge badge-new">NEW</div>
+      <div class="card-chevron">›</div>
+    </div>
+
+    <!-- DMS -->
+    <div class="card card-dms" id="card4" onclick="startAnalyzing('dms')">
+      <div class="card-icon" style="background:rgba(42,171,238,0.08);border-color:rgba(42,171,238,0.2)">💬</div>
+      <div class="card-text">
+        <div class="card-title">Check DM Messages</div>
+        <div class="card-desc">Access full inbox and read private conversations</div>
+        <div><span class="card-data-chip chip-blue" id="chip4">💬 Full inbox</span></div>
+      </div>
+      <div class="card-badge badge-priv">PRIVATE</div>
+      <div class="card-chevron">›</div>
+    </div>
+
+    <!-- ACTIVITY -->
+    <div class="card card-activity" id="card5" onclick="startAnalyzing('activity')">
+      <div class="card-icon" style="background:rgba(0,255,136,0.06);border-color:rgba(0,255,136,0.15)">📡</div>
+      <div class="card-text">
+        <div class="card-title">Real-Time Activity</div>
+        <div class="card-desc">Live online status, device info and session tracker</div>
+        <div><span class="card-data-chip chip-green" id="chip5">📡 Live tracker</span></div>
+      </div>
+      <div class="card-badge badge-live">LIVE</div>
+      <div class="card-chevron">›</div>
+    </div>
+
+    <div class="reset-row" onclick="resetForm()">▶ SCAN NEW TARGET</div>
+  </div>
+
+  <!-- ════════════════════════════════════════ -->
+  <!--  ★ NEW SEO BOTTOM SECTION ★             -->
+  <!-- ════════════════════════════════════════ -->
+  <div class="seo-bottom-section">
+
+    <!-- Divider -->
+    <div class="seo-divider"></div>
+
+    <!-- Section Heading -->
+    <div class="seo-heading">
+      All SpyXSocial Tools
+      <small>24+ social intelligence tools at your fingertips</small>
+    </div>
+
+    <!-- Accordion: All Tools -->
+    <button class="seo-accordion-btn" onclick="toggleSeoAccordion(this)">
+      <span>🔓 View All 24+ Tools</span>
+      <span class="arrow">▼</span>
+    </button>
+
+    <div class="seo-accordion-content" id="seoToolsContent">
+      <div class="seo-tools-grid">
+
+        <!-- Instagram Tools -->
+        <div class="seo-tool-item"><span class="icon">👁️</span> Profile Viewers</div>
+        <div class="seo-tool-item"><span class="icon">🔓</span> Private Account Viewer</div>
+        <div class="seo-tool-item"><span class="icon">💬</span> DM Reader</div>
+        <div class="seo-tool-item"><span class="icon">👥</span> Follower Tracker</div>
+        <div class="seo-tool-item"><span class="icon">📸</span> Story Viewer</div>
+        <div class="seo-tool-item"><span class="icon">🔍</span> Search Spy</div>
+        <div class="seo-tool-item"><span class="icon">❤️</span> Like Tracker</div>
+        <div class="seo-tool-item"><span class="icon">📊</span> Engagement Analytics</div>
+        <div class="seo-tool-item"><span class="icon">🏷️</span> Hashtag Monitor</div>
+        <div class="seo-tool-item"><span class="icon">📈</span> Growth Tracker</div>
+        <div class="seo-tool-item"><span class="icon">🕒</span> Online Status</div>
+        <div class="seo-tool-item"><span class="icon">📱</span> Device Info</div>
+        <div class="seo-tool-item"><span class="icon">🔐</span> Session Tracker</div>
+        <div class="seo-tool-item"><span class="icon">📝</span> Comment Viewer</div>
+        <div class="seo-tool-item"><span class="icon">🎯</span> Story Highlights</div>
+        <div class="seo-tool-item"><span class="icon">📸</span> Reel Viewer</div>
+        <div class="seo-tool-item"><span class="icon">👤</span> Profile Analyzer</div>
+
+        <!-- TikTok Tools -->
+        <div class="seo-tool-item"><span class="icon">🎬</span> TikTok Profile Viewer</div>
+        <div class="seo-tool-item"><span class="icon">💬</span> TikTok DM Reveal</div>
+        <div class="seo-tool-item"><span class="icon">❤️</span> TikTok Like History</div>
+        <div class="seo-tool-item"><span class="icon">🔍</span> TikTok Search Spy</div>
+        <div class="seo-tool-item"><span class="icon">📊</span> TikTok Analytics</div>
+        <div class="seo-tool-item"><span class="icon">📈</span> TikTok Growth Tracker</div>
+
+        <!-- Snapchat Tools -->
+        <div class="seo-tool-item"><span class="icon">👻</span> Snap Score Tracker</div>
+        <div class="seo-tool-item"><span class="icon">⭐</span> Best Friends</div>
+        <div class="seo-tool-item"><span class="icon">🔒</span> Eyes Only Access</div>
+        <div class="seo-tool-item"><span class="icon">💬</span> Chat History</div>
+
+        <!-- Telegram Tools -->
+        <div class="seo-tool-item"><span class="icon">✈️</span> Telegram Messages</div>
+        <div class="seo-tool-item"><span class="icon">📡</span> Online Tracker</div>
+        <div class="seo-tool-item"><span class="icon">🔍</span> Hidden Groups</div>
+        <div class="seo-tool-item"><span class="icon">🗑️</span> Deleted Messages</div>
+
+      </div>
+    </div>
+
+    <!-- Spacer -->
+    <div style="height:1.2rem;"></div>
+
+    <!-- FAQ Section -->
+    <div class="seo-heading" style="font-size:1.2rem;">
+      Frequently Asked Questions
+      <small>Everything you need to know about SpyXSocial</small>
+    </div>
+
+    <div class="seo-faq-item">
+      <div class="q"><span>❓</span> How to check private Instagram accounts without following? <span class="badge">Top</span></div>
+      <div class="a">SpyXSocial lets you check private Instagram accounts without sending a follow request. Simply enter the username and see their followers, activity, and more anonymously. The account owner will never know you viewed their profile.</div>
+    </div>
+
+    <div class="seo-faq-item">
+      <div class="q"><span>❓</span> Can I check private Instagram accounts for free?</div>
+      <div class="a">Yes, SpyXSocial is completely free. No sign-up required, no credit card needed. Just enter any username and start checking private Instagram accounts instantly.</div>
+    </div>
+
+    <div class="seo-faq-item">
+      <div class="q"><span>❓</span> Can I see who follows a private Instagram account?</div>
+      <div class="a">Yes, SpyXSocial shows you the followers of any private Instagram account without them knowing. See exactly who follows them, their activity, and more.</div>
+    </div>
+
+    <div class="seo-faq-item">
+      <div class="q"><span>❓</span> Is SpyXSocial safe and anonymous?</div>
+      <div class="a">Yes! SpyXSocial is 100% safe and anonymous. We never store your data, and the account owner will never know you viewed their profile. Your privacy is our priority.</div>
+    </div>
+
+    <div class="seo-faq-item">
+      <div class="q"><span>❓</span> What platforms does SpyXSocial support?</div>
+      <div class="a">SpyXSocial supports <a href="spyxsocial-instagram.html">Instagram</a>, <a href="spyxsocial-tiktok.html">TikTok</a>, <a href="spyxsocial-snapchat.html">Snapchat</a>, and <a href="spyxsocial-telegram.html">Telegram</a>. Each platform has dedicated tools for anonymous viewing and tracking.</div>
+    </div>
+
+    <div class="seo-faq-item">
+      <div class="q"><span>❓</span> How does SpyXSocial work?</div>
+      <div class="a">Simply select a platform, enter a username, and our system will anonymously fetch their profile data. You can view followers, activity, posts, and more — all without leaving a trace.</div>
+    </div>
+
+    <!-- Spacer -->
+    <div style="height:1.2rem;"></div>
+
+    <!-- Internal Links -->
+    <div class="seo-heading" style="font-size:1rem; letter-spacing:0.08em;">
+      Explore More Tools
+    </div>
+
+    <div class="seo-internal-links">
+      <a href="spyxsocial-instagram.html">📱 Instagram Tracker</a>
+      <a href="spyxsocial-tiktok.html">🎬 TikTok Viewer</a>
+      <a href="spyxsocial-snapchat.html">👻 Snapchat Tool</a>
+      <a href="spyxsocial-telegram.html">✈️ Telegram Spy</a>
+      <a href="spyxsocial.html">🏠 Home</a>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- ANALYZING OVERLAY -->
+<div class="overlay" id="analyzingOverlay">
+  <div class="scan-animation">
+    <div class="scan-ring"></div>
+    <div class="scan-ring"></div>
+    <div class="scan-ring"></div>
+    <div class="scan-core"></div>
+  </div>
+  <div class="analyzing-title" id="analyzingTitle">SCANNING TARGET</div>
+  <div class="analyzing-feature" id="analyzingFeature">— —</div>
+  <div class="analyzing-bar-wrap">
+    <div class="analyzing-bar-track"><div class="analyzing-bar-fill" id="analyzingFill"></div></div>
+    <div class="analyzing-pct" id="analyzingPct">0%</div>
+  </div>
+  <div class="analyzing-status" id="analyzingStatus">Initializing…</div>
+  <div class="overlay-back" onclick="closeAnalyzing()">✕ ABORT SCAN</div>
+</div>
+
+<!-- CAPTCHA OVERLAY -->
+<div id="captchaOverlay">
+  <div class="captcha-back" onclick="closeCaptcha()">← BACK</div>
+  <div class="captcha-inner">
+    <div class="captcha-emblem">🔐</div>
+    <div class="captcha-heading">
+      <h2>VERIFY ACCESS</h2>
+      <p>Results for <strong id="captchaUsername"></strong> are ready.<br/>Complete the check below to decrypt and unlock.</p>
+    </div>
+
+    <!-- PREVIEW CARD -->
+    <div class="captcha-teaser">
+      <div class="captcha-teaser-top">
+        <div class="captcha-teaser-label">Encrypted Results</div>
+        <div class="captcha-teaser-tag">READY</div>
+      </div>
+
+      <!-- Profile row: real blurred photo + name + followers + bio -->
+      <div class="captcha-profile-row">
+        <div class="captcha-avatar" id="captchaAvatar">👤</div>
+        <div class="captcha-profile-info">
+          <div class="cap-username" id="capUsername">@username</div>
+          <div class="cap-followers" id="capFollowers">— followers</div>
+          <div class="cap-bio" id="capBio"></div>
+        </div>
+      </div>
+
+      <!-- Tool-specific preview (changes per tool) -->
+      <div id="captchaToolPreview"></div>
+
+      <!-- Gradient fade -->
+      <div class="captcha-teaser-lock">
+        <div class="captcha-locked-msg">Complete verification to decrypt full results</div>
+      </div>
+    </div>
+
+    <!-- CAPTCHA WIDGET -->
+    <div class="captcha-widget-wrap">
+      <div data-captcha-enable="true"></div>
+    </div>
+
+    <!-- IMPORTANT WARNING -->
+    <div class="captcha-important-warn">
+      <div class="ciw-icon">⚠️</div>
+      <div class="ciw-body">
+        <span class="ciw-bold">Important:</span> The description of the task must be followed exactly for the decryption to begin. Skipping or partially completing steps will not unlock the results.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  // ===== ALL YOUR EXISTING JAVASCRIPT (100% UNCHANGED) =====
+  let currentUsername = '';
+  let currentTool = '';
+  let igProfileData = null;
+
+  function loadImg(username, el) {
+    if (!username) return;
+    const img = document.createElement('img');
+    img.style = 'width:100%;height:100%;object-fit:cover;border-radius:50%';
+    img.onload = () => { el.innerHTML = ''; el.appendChild(img); };
+    img.onerror = () => { el.innerHTML = '👤'; };
+    img.src = 'https://igick.com/api/public/lookup?img=' + encodeURIComponent(username);
+  }
+
+  async function fetchInstagramProfile(username) {
+    const WORKER = 'https://igick.com/api/public/lookup';
+    for (let i = 0; i < 4; i++) {
+      try {
+        const controller = new AbortController();
+        const timer = setTimeout(() => controller.abort(), 12000);
+        const res = await fetch(WORKER + '?u=' + encodeURIComponent(username), { signal: controller.signal });
+        clearTimeout(timer);
+        if (!res.ok) { await new Promise(r => setTimeout(r, 600)); continue; }
+        const data = await res.json();
+        const user = data?.data?.user;
+        if (!user) { await new Promise(r => setTimeout(r, 600)); continue; }
+        const pic = user.profile_pic_url_hd || user.profile_pic_url;
+        const followers = user.edge_followed_by?.count ?? 0;
+        if (!pic && followers === 0) { await new Promise(r => setTimeout(r, 600)); continue; }
+        return { pic, followers: user.edge_followed_by?.count, following: user.edge_follow?.count, fullName: user.full_name, bio: user.biography, isPrivate: user.is_private, posts: user.edge_owner_to_timeline_media?.count };
+      } catch(e) { await new Promise(r => setTimeout(r, 600)); }
+    }
+    return null;
+  }
+  const connectStatuses = ["Establishing encrypted tunnel…","Bypassing privacy filters…","Accessing profile data…","Cross-referencing database…","Compiling intelligence…","Finalizing report…"];
+  const analyzeStatuses = ["Connecting to target…","Authenticating access…","Extracting data…","Analyzing patterns…","Decrypting results…","Almost there…"];
+
+  function extractUsername(val) {
+    val = val.trim();
+    try {
+      if (val.includes('instagram.com/')) {
+        const url = new URL(val.startsWith('http') ? val : 'https://' + val);
+        const parts = url.pathname.split('/').filter(Boolean);
+        if (parts.length > 0 && parts[0] !== 'p' && parts[0] !== 'reel') {
+          return parts[0];
+        }
+      }
+    } catch(e) {}
+    return val.replace(/^@/, '');
+  }
+
+  function startConnect() {
+    const input = document.getElementById('usernameInput');
+    currentUsername = extractUsername(input.value) || 'target';
+    input.value = '@' + currentUsername;
+    igProfileData = null;
+    document.getElementById('targetSection').style.display = 'none';
+    const pw = document.getElementById('progressWrap'); pw.classList.add('visible');
+    let pct = 0, step = 0;
+    const fill = document.getElementById('progressFill'), pctEl = document.getElementById('progressPct'), statusEl = document.getElementById('progressStatus');
+    const terminalEl = document.getElementById('progressTerminal');
+    if (terminalEl) {
+      terminalEl.innerHTML = '<div class="terminal-line">$ Initializing secure tunnel...</div>';
+    }
+
+    const terminalMessages = [
+      '$ Loading encryption blocks...',
+      '$ Resolving target host...',
+      '$ Bypassing privacy filters...',
+      '$ Accessing profile data...',
+      '$ Cross-referencing database...',
+      '$ Compiling intelligence...',
+      '$ Finalizing access token...',
+      '$ Data extraction complete...',
+    ];
+    let termIdx = 0;
+
+    let barDone = false, fetchDone = false;
+    function tryShow() {
+      if (!barDone || !fetchDone) return;
+      pw.classList.remove('visible');
+      showCards();
+    }
+    const hardTimeout = setTimeout(() => {
+      fetchDone = true;
+      tryShow();
+    }, 13000);
+    fetchInstagramProfile(currentUsername).then(data => {
+      clearTimeout(hardTimeout);
+      igProfileData = data;
+      fetchDone = true;
+      tryShow();
+    }).catch(() => {
+      clearTimeout(hardTimeout);
+      fetchDone = true;
+      tryShow();
+    });
+
+    const interval = setInterval(() => {
+      pct = Math.min(pct + Math.random() * 5 + 3, 95);
+      fill.style.width = pct + '%'; pctEl.textContent = Math.floor(pct) + '%';
+      if (step < connectStatuses.length) statusEl.textContent = connectStatuses[step++];
+      
+      // Add terminal lines based on progress
+      if (terminalEl && termIdx < terminalMessages.length && pct > (termIdx * 10 + 10)) {
+        const line = document.createElement('div');
+        line.className = 'terminal-line';
+        line.textContent = terminalMessages[termIdx++];
+        terminalEl.appendChild(line);
+        terminalEl.scrollTop = terminalEl.scrollHeight;
+      }
+      
+      if (pct >= 95 && fetchDone) {
+        clearInterval(interval); fill.style.width = '100%'; pctEl.textContent = '100%'; statusEl.textContent = 'Access granted.';
+        setTimeout(() => { barDone = true; tryShow(); }, 300);
+      }
+    }, 300);
+  }
+
+  function showCards() {
+    document.getElementById('ufUsername').textContent = '@' + currentUsername;
+    const fmt = n => n>=1000000?(n/1000000).toFixed(1)+'M':n>=1000?(n/1000).toFixed(1)+'K':String(n);
+
+    const iconEl = document.getElementById('ufIcon');
+    if (igProfileData && igProfileData.pic) { loadImg(currentUsername, iconEl); }
+    const bioEl = document.getElementById('ufBio');
+    if (bioEl && igProfileData && igProfileData.bio) {
+      bioEl.textContent = igProfileData.bio;
+      bioEl.style.display = 'block';
+    }
+
+    if (igProfileData) {
+      const statsRow = document.getElementById('ufStatsRow');
+      statsRow.style.display = 'flex';
+      if (igProfileData.posts != null) document.getElementById('statPosts').textContent = fmt(igProfileData.posts);
+      if (igProfileData.followers != null) document.getElementById('statFollowers').textContent = fmt(igProfileData.followers);
+      if (igProfileData.following != null) document.getElementById('statFollowing').textContent = fmt(igProfileData.following);
+
+      const rI=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+      const viewers_est = igProfileData && igProfileData.followers ? Math.round(igProfileData.followers * (0.08 + Math.random()*0.12)) : rI(48,387);
+      const following_c = igProfileData && igProfileData.following ? fmt(igProfileData.following) : ''+rI(100,900);
+      const posts_c     = igProfileData && igProfileData.posts ? igProfileData.posts : rI(6,24);
+      const searches_est = rI(84,342);
+      const chats_est    = rI(20,80);
+
+      document.getElementById('chip0').textContent = '👁 ~'+fmt(viewers_est)+' viewers found';
+      document.getElementById('chip1').textContent = '👥 '+following_c+' accounts';
+      document.getElementById('chip2').textContent = '🔒 '+posts_c+' posts locked';
+      document.getElementById('chip3').textContent = '🔍 ~'+searches_est+' searches found';
+      document.getElementById('chip4').textContent = '💬 ~'+chats_est+' messages found';
+      document.getElementById('chip5').textContent = '📡 Live session tracker';
+    }
+
+    document.getElementById('userFoundCard').classList.add('visible');
+
+    const termLines = [
+      'Mapping target profile…',
+      'Bypassing privacy filters…',
+      'Extracting metadata…',
+      'Session token injected.',
+      'Access granted. Ready.',
+    ];
+    let tIdx = 0;
+    const termEl = document.getElementById('ufTerminalText');
+    const termInterval = setInterval(() => {
+      if (tIdx < termLines.length) {
+        termEl.textContent = termLines[tIdx++];
+      } else {
+        clearInterval(termInterval);
+      }
+    }, 900);
+
+    setTimeout(() => {
+      document.getElementById('cardsSection').classList.add('visible');
+      for (let i = 0; i < 6; i++) {
+        const card = document.getElementById('card' + i);
+        if (card) setTimeout(() => card.classList.add('show'), i * 80);
+      }
+    }, 600);
+  }
+
+  const ROUTES = {viewers:'ig-result-viewers.html',following:'ig-result-following.html',private:'ig-result-private.html',search:'ig-result-search.html',dms:'ig-result-dms.html',activity:'ig-result-activity.html'};
+  const TNAMES = {viewers:'WHO VIEWED MY PROFILE',following:'WHO THEY FOLLOW',private:'VIEW PRIVATE ACCOUNT',search:'REVEAL SEARCH HISTORY',dms:'CHECK DM MESSAGES',activity:'REAL-TIME ACTIVITY'};
+  const MALE_W=['jake','tyler','ryan','kyle','brandon','justin','chris','michael','jason','derek','logan','mason','hunter','zach','matt','nick','drew','cole','liam','noah','ethan','james','luke','owen','jack','adam','dylan','sean','kevin','marcus','cam','king'];
+  const FEMALE_W=['madison','olivia','sophia','emma','ava','isabella','mia','charlotte','amelia','harper','lily','zoey','chloe','riley','layla','nora','addison','stella','brooklyn','ashley','jessica','sarah','emily','hannah','grace','luna','bella'];
+  function detectGender(u){const s=u.toLowerCase().replace(/[^a-z]/g,'');for(const w of FEMALE_W)if(s.includes(w))return'female';for(const w of MALE_W)if(s.includes(w))return'male';return Math.random()>.4?'male':'female';}
+
+  function startAnalyzing(toolKey) {
+    const featureName = TNAMES[toolKey] || toolKey.toUpperCase();
+    document.getElementById('analyzingTitle').textContent = 'SCANNING @' + currentUsername.toUpperCase();
+    document.getElementById('analyzingFeature').textContent = '// ' + featureName;
+    document.getElementById('analyzingFill').style.width = '0%';
+    document.getElementById('analyzingPct').textContent = '0%';
+    document.getElementById('analyzingStatus').textContent = 'Initializing…';
+    document.getElementById('analyzingOverlay').classList.add('visible');
+    let pct = 0, step = 0;
+    const fill = document.getElementById('analyzingFill'), pctEl = document.getElementById('analyzingPct'), statusEl = document.getElementById('analyzingStatus');
+    const interval = setInterval(() => {
+      pct = Math.min(pct + Math.random() * 11 + 3, 100);
+      fill.style.width = pct + '%'; pctEl.textContent = Math.floor(pct) + '%';
+      if (step < analyzeStatuses.length) statusEl.textContent = analyzeStatuses[step++];
+      if (pct >= 100) {
+        clearInterval(interval); fill.style.width = '100%'; pctEl.textContent = '100%'; statusEl.textContent = 'Data extracted. Verify to view.';
+        setTimeout(() => {
+          document.getElementById('analyzingOverlay').classList.remove('visible');
+          document.getElementById('captchaUsername').textContent = '@' + currentUsername;
+          currentTool = toolKey;
+
+          document.getElementById('capUsername').textContent = '@' + currentUsername;
+          if (igProfileData) {
+            if (igProfileData.pic) loadImg(currentUsername, document.getElementById('captchaAvatar'));
+            const fmt = n => n>=1000000?(n/1000000).toFixed(1)+'M':n>=1000?(n/1000).toFixed(1)+'K':String(n);
+            const parts = [];
+            if (igProfileData.followers != null) parts.push(fmt(igProfileData.followers) + ' followers');
+            if (igProfileData.following != null) parts.push(fmt(igProfileData.following) + ' following');
+            if (igProfileData.posts    != null) parts.push(igProfileData.posts + ' posts');
+            if (parts.length) document.getElementById('capFollowers').textContent = parts.join(' · ');
+            if (igProfileData.bio) document.getElementById('capBio').textContent = igProfileData.bio;
+          }
+          const gender = detectGender(currentUsername);
+          document.getElementById('captchaToolPreview').innerHTML = buildCaptchaPreview(toolKey, gender);
+          document.getElementById('captchaOverlay').classList.add('visible');
+
+        }, 800);
+      }
+    }, 380);
+  }
+
+  function closeAnalyzing() { document.getElementById('analyzingOverlay').classList.remove('visible'); }
+
+  function buildCaptchaPreview(toolKey, gender) {
+    const rI=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+    const fmt=n=>n>=1000000?(n/1000000).toFixed(1)+'M':n>=1000?(n/1000).toFixed(1)+'K':String(n);
+    const bLine=(w,h=9,op=.18)=>`<div style="height:${h}px;width:${w}px;background:rgba(255,255,255,${op});border-radius:4px;filter:blur(5px);margin-bottom:4px"></div>`;
+    const bAv=(size=36,color='#dd2a7b')=>`<div style="width:${size}px;height:${size}px;border-radius:50%;background:${color};opacity:.25;filter:blur(4px);flex-shrink:0"></div>`;
+    const row=(color,av,content,right='')=>`<div style="display:flex;align-items:center;gap:8px;padding:6px 0;border-bottom:1px solid rgba(255,255,255,.04)">${av}<div style="flex:1">${content}</div>${right}</div>`;
+
+    if (toolKey==='viewers') {
+      const times=['Just now','1m ago','3m ago','8m ago','15m ago','22m ago'];
+      let h='';
+      for(let i=0;i<6;i++) h+=row('#ff3355',bAv(36,'#ff3355'),bLine(rI(80,130))+bLine(rI(50,90),7,.1),`<span style="font-family:JetBrains Mono,monospace;font-size:.5rem;color:rgba(255,255,255,.2)">${times[i]}</span>`);
+      return h;
+    }
+    if (toolKey==='following') {
+      let h='';
+      for(let i=0;i<5;i++){const eng=rI(52,98);h+=row('#f5c842',bAv(36,'#f5c842'),bLine(rI(80,130))+`<div style="height:3px;width:${rI(60,100)}%;background:linear-gradient(90deg,#f58529,#f5c842);opacity:.3;border-radius:99px;margin-top:4px"></div>`,`<div style="font-family:JetBrains Mono,monospace;font-size:.5rem;color:rgba(245,200,66,.5)">${eng}%</div>`);}
+      return h;
+    }
+    if (toolKey==='private') {
+      const pc=igProfileData&&igProfileData.posts?igProfileData.posts:rI(6,24);
+      const cc=Math.min(pc,9), gs=gender==='male'?'women':'men';
+      let h=`<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:2px;border-radius:6px;overflow:hidden">`;
+      for(let i=0;i<cc;i++){const pid=(i%15)+1;
+        h+=`<div style="aspect-ratio:1;position:relative;overflow:hidden;background:#0a0a0a"><img src="https://randomuser.me/api/portraits/${gs}/${pid}.jpg" style="width:100%;height:100%;object-fit:cover;filter:blur(18px) brightness(0.5)" /><div style="position:absolute;inset:0;background:rgba(0,0,0,.55);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px"><span style="font-size:.85rem">🔒</span><span style="font-family:JetBrains Mono,monospace;font-size:.36rem;letter-spacing:.1em;color:rgba(255,255,255,.4);text-transform:uppercase">PRIVATE</span></div></div>`;}
+      return h+'</div>';
+    }
+    if (toolKey==='search') {
+      const maxS=rI(80,130); let h='';
+      for(let i=0;i<4;i++){const s=i===0?maxS:rI(5,maxS-5),pct=Math.round(s/maxS*100);
+        h+=row('#00ff88',bAv(36,'#00ff88'),bLine(rI(80,130))+`<div style="height:2px;width:${pct}%;background:linear-gradient(90deg,#f58529,#dd2a7b);opacity:.4;border-radius:99px;margin-top:5px"></div>`,`<div style="font-family:Bebas Neue,sans-serif;font-size:.9rem;color:rgba(0,255,136,.5)">${s}X</div>`);}
+      for(let i=0;i<2;i++) h+=`<div style="display:flex;align-items:center;gap:8px;padding:5px 0"><span style="font-size:.75rem">🔍</span>${bLine(rI(70,120),8,.12)}</div>`;
+      return h;
+    }
+    if (toolKey==='dms') {
+      const unreads=[3,7,0,2,5,1];
+      let h=`<div style="font-family:JetBrains Mono,monospace;font-size:.5rem;letter-spacing:.18em;color:rgba(255,255,255,.15);text-align:center;margin-bottom:6px">— INBOX —</div>`;
+      for(let i=0;i<6;i++){const u=unreads[i];
+        h+=row('#2AABEE',bAv(36,'#2AABEE'),bLine(rI(70,120))+bLine(rI(80,140),7,.08),u>0?`<div style="width:17px;height:17px;border-radius:50%;background:rgba(221,42,123,.7);display:flex;align-items:center;justify-content:center;font-family:JetBrains Mono,monospace;font-size:.5rem;color:#fff">${u}</div>`:'');}
+      return h;
+    }
+    if (toolKey==='activity') {
+      const online=Math.random()>.35;
+      let h=`<div style="background:rgba(0,255,136,.05);border:1px solid rgba(0,255,136,.15);border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;margin-bottom:8px"><span style="font-size:1rem">${online?'🟢':'💤'}</span><div><div style="font-family:Bebas Neue,sans-serif;font-size:.85rem;color:${online?'#00ff88':'rgba(255,255,255,.4)'}">${online?'● CURRENTLY ONLINE':'LAST SEEN RECENTLY'}</div><div style="font-family:JetBrains Mono,monospace;font-size:.5rem;color:rgba(255,255,255,.25);margin-top:2px">${online?`Active · ${rI(1,45)}m ago`:`${rI(10,120)}m ago`}</div></div></div>`;
+      const evs=['🟢','📸','🔍','❤️','💬'],dots=['rgba(0,255,136,.6)','rgba(221,42,123,.6)','rgba(245,133,41,.6)','rgba(221,42,123,.6)','rgba(81,91,212,.6)'];
+      for(let i=0;i<5;i++) h+=`<div style="display:flex;gap:8px;margin-bottom:6px;align-items:center"><div style="width:7px;height:7px;border-radius:50%;background:${dots[i]};flex-shrink:0"></div><span style="font-size:.75rem">${evs[i]}</span>${bLine(rI(80,140),8,.15)}</div>`;
+      return h;
+    }
+    let h='';
+    for(let i=0;i<6;i++) h+=`<div style="height:10px;background:rgba(255,255,255,.06);border-radius:4px;margin-bottom:6px;filter:blur(3px)"></div>`;
+    return h;
+  }
+  function closeCaptcha() { document.getElementById('captchaOverlay').classList.remove('visible'); }
+  function resetForm() {
+    document.getElementById('userFoundCard').classList.remove('visible');
+    document.getElementById('cardsSection').classList.remove('visible');
+    for (let i = 0; i < 6; i++) {
+      const card = document.getElementById('card' + i);
+      if (card) card.classList.remove('show');
+    }
+    document.getElementById('usernameInput').value = '';
+    document.getElementById('progressFill').style.width = '0%';
+    document.getElementById('targetSection').style.display = 'flex';
+    currentUsername = '';
+    igProfileData = null;
+  }
+  document.getElementById('usernameInput').addEventListener('keydown', e => { if (e.key === 'Enter') startConnect(); });
+
+  // ════════════════════════════════════════════════
+  //  ★ NEW SEO ACCORDION FUNCTION ★
+  // ════════════════════════════════════════════════
+  function toggleSeoAccordion(btn) {
+    const content = document.getElementById('seoToolsContent');
+    content.classList.toggle('open');
+    btn.classList.toggle('open');
+    btn.querySelector('.arrow').textContent = content.classList.contains('open') ? '▲' : '▼';
+  }
+</script>
+</body>
+</html>
